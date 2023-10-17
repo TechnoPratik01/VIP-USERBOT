@@ -12,27 +12,27 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter Your Api ID Here.",
+            "description": "20850845",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter Your App Hash Here",
+            "description": "07e758e9dfa091a98b8779304dcc7b98",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter Pyrogram v2 String Session",
+            "description": "BQE-KJ0AlNWxy8Lj2szBX8yfZPhM89buYRmXr5Cw4nRLmpfK0URPnP2TxygdbDBcZZSZEFUJ20xiTBTF4vw9LDdSWVi_munSumeZiU5XDFTV6jGhYEENEm5l6j83TIkj1M8jXis-AnZcwm4sZm6BnLXKfWASW2UF6tHso9_qCOxVsRWXzbWwGpKG83drzAyCfepVUfJZ3ilqvj98kgNTA-ThWXtVy_Ie996eM0EIBNQNUbnu3HTrK59EdIW9RTMi0OubU3kMqwLsC3tB7xL8GdUr08cdRygR2Bg725IF70yB7km9-_4eN_YehuoFVJwkbwGFotBayXDH8eBayk-rhSQYiYhwAAAAGKnWsYAA",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token, (Get it from @BotFather)",
+            "description": "6631176691:AAHUyAZix6VGt9r7_3bPAnTMxw7q6ySoByA",
             "required": true
         },
         "MONGO_DATABASE": {
-            "description": "Enter Your Mongo DB URL",
+            "description": "mongodb+srv://technomusic008:3zs9oDDtpR7GIRjN@music.wsnyqvo.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "LOG_GROUP_ID": {
-            "description": "Enter Your Logger Group ID",
+            "description": "-1001777871477",
             "required": true
         }
     },
